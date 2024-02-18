@@ -1,0 +1,4 @@
+C:\Users\Krzysztof\Desktop\tin projekt\backend\WebApplication1\WebApplication1\bin\Release\net7.0\win-x86\publish\appsettings.Development.json
+C:\Users\Krzysztof\Desktop\tin projekt\backend\WebApplication1\WebApplication1\bin\Release\net7.0\win-x86\publish\appsettings.json
+C:\Users\Krzysztof\Desktop\tin projekt\backend\WebApplication1\WebApplication1\bin\Release\net7.0\win-x86\publish\WebApplication1.pdb
+C:\Users\Krzysztof\Desktop\tin projekt\backend\WebApplication1\WebApplication1\bin\Release\net7.0\win-x86\publish\WebApplication1.exe
